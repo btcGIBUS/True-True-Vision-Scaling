@@ -12,5 +12,10 @@ The original true true vision Bitcoin scaling roadmap currently includes
 
 
 
+
+
+
+
+
 <img src="https://github.com/btcGIBUS/True-True-Vision-Scaling/blob/master/bitcoinclashic-1.jpg" alt="Scaling">
 
